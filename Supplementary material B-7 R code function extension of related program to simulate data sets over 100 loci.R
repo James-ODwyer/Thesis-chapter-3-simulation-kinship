@@ -1,5 +1,5 @@
 
-#Supplementary material 2-G R code function extension of related program to simulate data sets >100 loci
+#Supplementary material B-7 R code function extension of related program to simulate data sets >100 loci
 #What makes for reliable kinship assignments; how sample design, genetic markers and programs used shape assignment accuracies.
 
 
